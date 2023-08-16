@@ -1,0 +1,27 @@
+#Enlace1{
+    color: coral;
+    font-family: Verdana;
+}
+
+.Enlace2{
+    color: rgb(140, 27, 192);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#bloque1 {
+    margin: 20px  20px  30px  40px;
+    padding: 30px;
+    background-color: brown;
+     font-family: cursive;
+     display: inline-block;
+}
+#bloque2 {
+    margin: 10px 20px  30px  40px;
+    padding: 50px;
+    background-color: rgb(108, 43, 138);
+     font-family: 'Lucida Sans';
+     display: inline-block;
+}
+#enlace{
+    display: block;
+}
